@@ -1,0 +1,7 @@
+#Entornos con secretos
+.env
+
+# otros
+.venv/*
+__psycache__/
+*.pyc
